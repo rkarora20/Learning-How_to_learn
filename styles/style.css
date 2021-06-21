@@ -84,7 +84,7 @@ z-index: 1;
 }
 .two-columns__brief {
   width: 175px;
-  flex-direction: column; 
+  flex-direction: column;
   align-self: stretch;
   line-height: 1.2;
   font-size: 18px;
@@ -164,7 +164,7 @@ z-index: 1;
   flex-direction: column;
   position: relative;
   height: 790px;
-  background-color: #F2F2F2 ;
+  background-color: #F2F2F2;
   z-index: 0;
 }
 .feynman__image {
@@ -324,7 +324,7 @@ z-index: 1;
   color: #F2F2F2;
 }
 .kaufman__subtitle_theme_dark {
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 }
 /* .table__text_theme_dark {
   margin-top: 20px;
