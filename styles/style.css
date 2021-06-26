@@ -1,6 +1,6 @@
 .header__title, .header__subtitle, .two-columns__brief,.two-columns__paragraph, .section-title, .section-subtitle,
  .table, .table__heading, .table__text, .feynman__title, .feynman__subtitle, .footer__column-heading, .footer__list, .footer__author {
-  margin: 0px;
+  margin: 0;
 }
 
 .page {
