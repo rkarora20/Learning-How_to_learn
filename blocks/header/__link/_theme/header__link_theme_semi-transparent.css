@@ -1,0 +1,7 @@
+.header__link_theme_semi-transparent {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+  }
+  .header__link_theme_semi-transparent:hover {
+    opacity: 0.5;
+  }
