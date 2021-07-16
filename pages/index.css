@@ -74,7 +74,6 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
 
-
 /* khan */
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__title/khan__title.css);
@@ -107,14 +106,3 @@
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__social-icons/footer__social-icons.css);
-
-
-
-
-
-
-
-
-
-
-
