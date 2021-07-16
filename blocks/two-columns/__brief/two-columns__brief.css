@@ -1,10 +1,10 @@
 .two-columns__brief {
-    width: 175px;
-    flex-direction: column;
-    align-self: stretch;
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-    color: #2F80ED;
-    margin: 0;
-  }
+  width: 175px;
+  flex-direction: column;
+  align-self: stretch;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+  margin: 0;
+}

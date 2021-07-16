@@ -1,10 +1,10 @@
 .two-columns__main-text {
-    width: 80%;
-    min-width: 784px;
-  }
-  .two-columns__main-text :first-child {
-    margin-top: 0px; 
-  }
-  .two-columns__main-text :last-child {
-    margin-bottom: 0px; 
-  }
+  width: 80%;
+  min-width: 784px;
+}
+.two-columns__main-text :first-child {
+  margin-top: 0px;
+}
+.two-columns__main-text :last-child {
+  margin-bottom: 0px;
+}
